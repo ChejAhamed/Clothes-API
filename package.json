@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "heroku": "^7.56.1",
     "jason-server": "^3.0.0",
     "json-server": "^0.16.3"
   },
